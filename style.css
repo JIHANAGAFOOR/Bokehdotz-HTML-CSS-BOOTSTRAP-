@@ -1,0 +1,109 @@
+#header{
+    background-color: #526AE7;
+    height: 30px;
+}
+#mail{
+    color: white;
+    font-size: 20px;
+}
+li{
+    padding-left: 30px;
+}
+#main_div{
+    background-image: url("/bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 1850px
+}
+#blank{
+    height: 200px;
+}
+button{
+    text-align: center;
+    background-color: rgb(226, 75, 55);
+    border: none;
+    padding: 20px;
+    border-radius: 30px;;
+     width:170px
+}
+#button_div{
+    justify-content: center;
+    display: flex;
+    color: white;
+    font-weight: bold;
+   
+}
+
+#cloud1_text{
+    color: blue;
+}
+#cloud1_heading{
+    font-size: 30px;
+    color: blue;
+    margin-top: -230px;
+}
+#cloud{
+    margin-left: 120px;
+}
+#blank1{
+    height: 50px;
+}
+#cloud2{
+    width:400px
+    
+}
+#cloud2_heading{
+    font-size: 30px;
+    color: blue;
+    margin-top: -210px;
+    margin-left: -20px;
+}
+#cloud2_text{
+    color: blue;
+}
+#blank2{
+    height: 270px;
+}
+#cloud3{
+    height:250px;
+    width:400px;
+    margin-top:200px;
+    margin-left: 50px;
+}
+#cloud3_text{
+    color: blue;
+}
+#cloud3_heading{
+    font-size: 30px;
+    color: blue;
+    margin-top: -170px;
+}
+#footer{
+    background-image: url("./footer.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height:200px;
+   
+}
+#footer_text{
+    margin-top: -75px;
+}
+#blank3{
+    height: 200px;
+}
+#header1{
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
+#header_text{
+    text-align: center;
+    color: blue;
+}
+li{
+    display: inline;
+    justify-content: end;
+}
+
